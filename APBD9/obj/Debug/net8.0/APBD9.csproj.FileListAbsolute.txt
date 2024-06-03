@@ -262,6 +262,6 @@ C:\Users\PC\APBD9\APBD9\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTarge
 C:\Users\PC\APBD9\APBD9\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APBD9.props
 C:\Users\PC\APBD9\APBD9\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\PC\APBD9\APBD9\obj\Debug\net8.0\scopedcss\bundle\APBD9.styles.css
-C:\Users\PC\APBD9\APBD9\obj\Debug\net8.0\APBD9.csproj.CopyComplete
 C:\Users\PC\APBD9\APBD9\obj\Debug\net8.0\APBD9.genruntimeconfig.cache
 C:\Users\PC\APBD9\APBD9\obj\Debug\net8.0\ref\APBD9.dll
+C:\Users\PC\APBD9\APBD9\obj\Debug\net8.0\APBD9.csproj.Up2Date
